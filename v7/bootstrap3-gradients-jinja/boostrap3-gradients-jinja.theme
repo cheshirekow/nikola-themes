@@ -1,0 +1,10 @@
+[Theme]
+engine = jinja
+parent = boostrap3-jinja
+author = The Nikola Contributors
+author_url = https://getnikola.com/
+license = MIT
+
+[Family]
+family = bootstrap3-gradients
+mako_version = bootstrap3-gradients
