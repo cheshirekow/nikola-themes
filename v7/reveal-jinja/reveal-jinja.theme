@@ -1,0 +1,10 @@
+[Theme]
+engine = jinja
+parent = bootstrap
+author = The Nikola Contributors
+author_url = https://getnikola.com/
+license = MIT
+
+[Family]
+family = reveal
+mako_version = reveal
