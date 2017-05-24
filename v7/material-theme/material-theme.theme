@@ -1,0 +1,9 @@
+[Theme]
+engine = jinja
+parent = bootstrap3-jinja
+author = The Nikola Contributors
+author_url = https://getnikola.com/
+license = MIT
+
+[Family]
+family = material-theme
