@@ -1,0 +1,10 @@
+[Theme]
+engine = mako
+parent = bootstrap3
+author = The Nikola Contributors
+author_url = https://getnikola.com/
+license = MIT
+
+[Family]
+family = bootblog
+jinja_version = bootblog-jinja
