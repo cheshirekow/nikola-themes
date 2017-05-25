@@ -1,9 +1,9 @@
 [Theme]
 engine = jinja
 parent = base-jinja
-author = The Nikola Contributors
-author_url = https://getnikola.com/
-license = MIT
+author = Chris Warrick
+author_url = https://chriswarrick.com/
+license = 3-clause BSD
 
 [Family]
 family = slidemenu
